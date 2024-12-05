@@ -1,5 +1,5 @@
 
-import { useLoaderData, useSearchParams } from 'react-router-dom'
+import { useLoaderData} from 'react-router-dom'
 import './App.css'
 import CoffeeCard from './components/CoffeeCard';
 import { useState } from 'react';
